@@ -1,2 +1,0 @@
-# fbicloud.github.io
-blog

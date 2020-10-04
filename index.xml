@@ -3,7 +3,7 @@
         <title>FBICLOUD</title>
         <link>https://blog.fbicloud.com/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language>
+        <generator>Hugo -- gohugo.io</generator>
             <atom:link href="https://blog.fbicloud.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

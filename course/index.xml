@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on FBICLOUD</title>
+    <link>https://blog.fbicloud.com/course/</link>
+    <description>Recent content in Courses on FBICLOUD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Oct 2020 13:11:30 +0800</lastBuildDate><atom:link href="https://blog.fbicloud.com/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cnckad</title>
+      <link>https://blog.fbicloud.com/course/cnckad/</link>
+      <pubDate>Thu, 22 Oct 2020 13:11:30 +0800</pubDate>
+      
+      <guid>https://blog.fbicloud.com/course/cnckad/</guid>
+      <description>1111 1111 1111 1111 111 1</description>
+    </item>
+    
+  </channel>
+</rss>
